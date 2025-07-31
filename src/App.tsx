@@ -22,7 +22,6 @@ function App() {
         <Route path="recipes/:recipeId" element={<Recipe />} />
       </Routes>
       <Outlet />
-      <Recipe />
     </>
   );
 }
