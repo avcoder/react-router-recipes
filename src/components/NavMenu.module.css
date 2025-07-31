@@ -1,0 +1,7 @@
+.nav {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
